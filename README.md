@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Ramesh+Chandra's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Jack+Zhou's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" /></a>
 ## Hi there 👋 I'm Jack Zhou <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
